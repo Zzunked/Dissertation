@@ -11,46 +11,47 @@ A level-1 auxiliary file: Dissertation/conclusion.aux
 The style file: ieeetr.bst
 Database file #1: biblio/papers_for_disser.bib
 Warning--empty publisher in Usachev_doc
+Warning--empty publisher in Vladimirov_book
 Warning--empty publisher in Simonov_disser
-You've used 26 entries,
+You've used 27 entries,
             1876 wiz_defined-function locations,
-            686 strings with 9922 characters,
-and the built_in function-call counts, 8208 in all, are:
-= -- 789
-> -- 421
+            690 strings with 10067 characters,
+and the built_in function-call counts, 8352 in all, are:
+= -- 802
+> -- 425
 < -- 0
-+ -- 151
-- -- 125
-* -- 646
-:= -- 1189
-add.period$ -- 28
-call.type$ -- 26
++ -- 153
+- -- 126
+* -- 652
+:= -- 1209
+add.period$ -- 30
+call.type$ -- 27
 change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 399
-empty$ -- 647
-format.name$ -- 125
-if$ -- 1956
+cite$ -- 30
+duplicate$ -- 408
+empty$ -- 666
+format.name$ -- 126
+if$ -- 1992
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 28
-newline$ -- 83
-num.names$ -- 26
-pop$ -- 51
+int.to.str$ -- 27
+missing$ -- 30
+newline$ -- 87
+num.names$ -- 27
+pop$ -- 58
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 332
+skip$ -- 333
 stack$ -- 0
 substring$ -- 542
-swap$ -- 208
+swap$ -- 209
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 70
-width$ -- 28
-write$ -- 257
-(There were 2 warnings)
+warning$ -- 3
+while$ -- 71
+width$ -- 29
+write$ -- 265
+(There were 3 warnings)
