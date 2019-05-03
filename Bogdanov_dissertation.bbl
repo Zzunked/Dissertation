@@ -33,12 +33,33 @@ C.~G.~Joachim, J.~Gimzewski, and a.~A.~Aviram, ``Electronics using
 A.~Nitzan and M.~A. Ratner, ``Electron transport in molecular wire junctions,''
   {\em Science}, vol.~300, no.~5624, pp.~1384--1389, 2003.
 
+\bibitem{Zheng2008}
+M.~Zheng, Y.~Liu, Y.~Gu, and Z.~Xu, ``Synthesis and characterization of boron
+  nitride sponges as a novel support for metal nanoparticles,'' {\em Science in
+  China Series B: Chemistry}, vol.~51, pp.~205--210, Mar 2008.
+
+\bibitem{Kamalakar2014}
+M.~V. Kamalakar, A.~Dankert, J.~Bergsten, T.~Ive, and S.~Dash, ``Enhanced
+  tunnel spin injection into graphene using chemical vapor deposited hexagonal
+  boron nitride,'' {\em Scientific reports}, vol.~4, 06 2014.
+
+\bibitem{Kamalakar2016}
+M.~V. Kamalakar, A.~Dankert, P.~J.~Kelly, and S.~Dash, ``Inversion of spin
+  signal and spin filtering in ferromagnet|hexagonal boron nitride-graphene van
+  der waals heterostructures,'' {\em Scientific Reports}, vol.~6, p.~21168, 02
+  2016.
+
+\bibitem{Usachev_doc}
+Д.Ю.Усачев, {\em Синтез и управление
+  электронной структурой систем на основе
+  графена : дис. ... д-ра физ.-мат. наук : 01.04.07}.
+\newblock 2015.
+
 \bibitem{Kidambi2014}
 P.~Kidambi, R.~Blume, J.~Kling, J.~Wagner, C.~Baehtz, R.~Weatherup,
   R.~Schloegl, B.~Bayer, and S.~Hofmann, ``In situ observations during chemical
   vapor deposition of hexagonal boron nitride on polycrystalline copper,'' {\em
   Chemistry of Materials}, vol.~26, no.~22, pp.~6380--6392, 2014.
-\newblock {\circledC} 2014 American Chemical Society.
 
 \bibitem{Paffett1990}
 M.~T. {Paffett}, R.~J. {Simonson}, P.~{Papin}, and R.~T. {Paine}, ``{Borazine
@@ -66,6 +87,33 @@ A.~Nagashima, N.~Tejima, Y.~Gamou, T.~Kawai, and C.~Oshima, ``Electronic
 Q.~Weng, X.-B. Wang, X.~Wang, Y.~Bando, and D.~Golberg, ``Functionalized
   hexagonal boron nitride nanomaterials: Emerging properties and
   applications,'' {\em Chemical Society reviews}, vol.~45, 05 2016.
+
+\bibitem{Ataca2010}
+C.~Ataca and S.~Ciraci, ``Functionalization of bn honeycomb structure by
+  adsorption and substitution of foreign atoms,'' {\em Phys. Rev. B}, vol.~82,
+  p.~165402, Oct 2010.
+
+\bibitem{Kittel1976}
+M.~P. Kittel~C., McEuen~P., ``Introduction to solid state physics,'' {\em Wiley
+  New York}, 1976.
+
+\bibitem{Simonov_disser}
+К.А.Симонов, {\em Наноструктуры на основе
+  графена и гексагонального нитрида бора:
+  характеризация методами рентгеновской
+  пектроскопии и сканирующей туннельной
+  микроскопии : дис. ... канд. физ.-мат. наук :
+  01.04.07}.
+\newblock 2015.
+
+\bibitem{Hufner2019}
+S.~Hufner, ``Photoelectron spectroscopy : principles and applications / stefan
+  hufner,'' {\em SERBIULA (sistema Librum 2.0)}, 05 2019.
+
+\bibitem{Zhou2010}
+Y.~G. Zhou, X.~T. Zu, P.~Yang, H.~Y. Xiao, and F.~Gao, ``Oxygen-induced
+  magnetic properties and metallic behavior of a {BN} sheet,'' {\em Journal of
+  Physics: Condensed Matter}, vol.~22, p.~465303, nov 2010.
 
 \bibitem{Simonov2012_h-BN/Ir_Oxydation}
 K.~Simonov, N.~Vinogradov, M.~Ng, A.~Vinogradov, N.~Martensson, and
