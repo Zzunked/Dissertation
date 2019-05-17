@@ -38,6 +38,11 @@ M.~Zheng, Y.~Liu, Y.~Gu, and Z.~Xu, ``Synthesis and characterization of boron
   nitride sponges as a novel support for metal nanoparticles,'' {\em Science in
   China Series B: Chemistry}, vol.~51, pp.~205--210, Mar 2008.
 
+\bibitem{Chau2007}
+R.~Chau, B.~Doyle, S.~Datta, J.~Kavalieros, and K.~Zhang, ``Integrated
+  nanoelectronics for the future,'' {\em Nature materials}, vol.~6, pp.~810--2,
+  12 2007.
+
 \bibitem{Kamalakar2014}
 M.~V. Kamalakar, A.~Dankert, J.~Bergsten, T.~Ive, and S.~Dash, ``Enhanced
   tunnel spin injection into graphene using chemical vapor deposited hexagonal
@@ -93,27 +98,33 @@ C.~Ataca and S.~Ciraci, ``Functionalization of bn honeycomb structure by
   adsorption and substitution of foreign atoms,'' {\em Phys. Rev. B}, vol.~82,
   p.~165402, Oct 2010.
 
-\bibitem{Vladimirov_book}
-Г.Г.Владимиров, {\em Физика поверхности
-  твердых тел: Учебное пособие.}
-\newblock 2016.
+\bibitem{Litvinov1998}
+D.~Litvinov, C.~A.~Taylor, and R.~Clarke, ``Semiconducting cubic boron
+  nitride,'' {\em Diamond and Related Materials}, vol.~7, pp.~360--364, 02
+  1998.
 
-\bibitem{Kittel1976}
-M.~P. Kittel~C., McEuen~P., ``Introduction to solid state physics,'' {\em Wiley
-  New York}, 1976.
+\bibitem{YZhi2009}
+C.~Y~Zhi, Y.~Bando, T.~Terao, C.~C~Tang, H.~Kuwahara, and D.~Golberg,
+  ``Chemically activated boron nitride nanotubes,'' {\em Chemistry, an Asian
+  journal}, vol.~4, pp.~1536--40, 10 2009.
 
-\bibitem{Simonov_disser}
-К.А.Симонов, {\em Наноструктуры на основе
-  графена и гексагонального нитрида бора:
-  характеризация методами рентгеновской
-  пектроскопии и сканирующей туннельной
-  микроскопии : дис. ... канд. физ.-мат. наук :
-  01.04.07}.
-\newblock 2015.
+\bibitem{Neumann1995}
+H.~Neumann, ``J. h. edgar (ed.). properties of group iii nitrides. (emis
+  datareviews series no. 11). inspec, the institution of electrical engineers,
+  london 1994. 302 seiten, 121 abbildungen, 77 tabellen. isbn
+  0–85296–818–3,'' {\em Crystal Research and Technology}, vol.~30, no.~7,
+  pp.~910--910, 1995.
 
-\bibitem{Hufner2019}
-S.~Hufner, ``Photoelectron spectroscopy : principles and applications / stefan
-  hufner,'' {\em SERBIULA (sistema Librum 2.0)}, 05 2019.
+\bibitem{Doni1969}
+E.~Doni and G.~P. Parravicini, ``Energy bands and optical properties of
+  hexagonal boron nitride and graphite,'' {\em Il Nuovo Cimento B (1965-1970)},
+  vol.~64, pp.~117--144, Nov 1969.
+
+\bibitem{Serzhantova2011}
+M.~Serzhantova, A.~Kuzubov, A.~Fedorov, F.~Tomilin, and P.~Krasnov,
+  ``Theoretical study of the influence of deformation on the electronic
+  structure of a hexagonal boron nitride monolayer,'' {\em Siberian Journal of
+  Science and Technology}, 2011.
 
 \bibitem{Zhou2010}
 Y.~G. Zhou, X.~T. Zu, P.~Yang, H.~Y. Xiao, and F.~Gao, ``Oxygen-induced
@@ -142,5 +153,9 @@ V.~O. Shevelev, K.~A. Bokai, O.~Y. Vilkov, A.~A. Makarova, and D.~Y. Usachov,
 S.~P. Huber, E.~Gullikson, R.~W.~E. van~de Kruijs, F.~Bijkerk, and
   D.~Prendergast, ``Oxygen-stabilized triangular defects in hexagonal boron
   nitride,'' {\em Phys. Rev. B}, vol.~92, p.~245310, Dec 2015.
+
+\bibitem{Koepernik1999}
+K.~Koepernik and H.~Eschrig, ``Full-potential nonorthogonal local-orbital
+  minimum-basis band-structure scheme,'' {\em Phys. Rev. B}, vol.~59, 01 1999.
 
 \end{thebibliography}
