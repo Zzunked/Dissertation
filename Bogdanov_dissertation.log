@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.11)  17 MAY 2019 11:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.11)  26 MAY 2019 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1803,6 +1803,335 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count316
+\l_tmpa_int=\count317
+\l_tmpb_int=\count318
+\g_tmpa_int=\count319
+\g_tmpb_int=\count320
+\g__intarray_font_int=\count321
+\g__prg_map_int=\count322
+\c_log_iow=\count323
+\l_iow_line_count_int=\count324
+\l__iow_line_target_int=\count325
+\l__iow_one_indent_int=\count326
+\l__iow_indent_int=\count327
+\c_zero_dim=\dimen317
+\c_max_dim=\dimen318
+\l_tmpa_dim=\dimen319
+\l_tmpb_dim=\dimen320
+\g_tmpa_dim=\dimen321
+\g_tmpb_dim=\dimen322
+\c_zero_skip=\skip278
+\c_max_skip=\skip279
+\l_tmpa_skip=\skip280
+\l_tmpb_skip=\skip281
+\g_tmpa_skip=\skip282
+\g_tmpb_skip=\skip283
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count328
+\c__fp_leading_shift_int=\count329
+\c__fp_middle_shift_int=\count330
+\c__fp_trailing_shift_int=\count331
+\c__fp_big_leading_shift_int=\count332
+\c__fp_big_middle_shift_int=\count333
+\c__fp_big_trailing_shift_int=\count334
+\c__fp_Bigg_leading_shift_int=\count335
+\c__fp_Bigg_middle_shift_int=\count336
+\c__fp_Bigg_trailing_shift_int=\count337
+\c__fp_rand_size_int=\count338
+\c__fp_rand_four_int=\count339
+\c__fp_rand_eight_int=\count340
+\l__sort_length_int=\count341
+\l__sort_min_int=\count342
+\l__sort_top_int=\count343
+\l__sort_max_int=\count344
+\l__sort_true_max_int=\count345
+\l__sort_block_int=\count346
+\l__sort_begin_int=\count347
+\l__sort_end_int=\count348
+\l__sort_A_int=\count349
+\l__sort_B_int=\count350
+\l__sort_C_int=\count351
+\l__tl_build_start_index_int=\count352
+\l__tl_build_index_int=\count353
+\l__tl_analysis_normal_int=\count354
+\l__tl_analysis_index_int=\count355
+\l__tl_analysis_nesting_int=\count356
+\l__tl_analysis_type_int=\count357
+\l__regex_internal_a_int=\count358
+\l__regex_internal_b_int=\count359
+\l__regex_internal_c_int=\count360
+\l__regex_balance_int=\count361
+\l__regex_group_level_int=\count362
+\l__regex_mode_int=\count363
+\c__regex_cs_in_class_mode_int=\count364
+\c__regex_cs_mode_int=\count365
+\l__regex_catcodes_int=\count366
+\l__regex_default_catcodes_int=\count367
+\c__regex_catcode_D_int=\count368
+\c__regex_catcode_S_int=\count369
+\c__regex_catcode_L_int=\count370
+\c__regex_catcode_O_int=\count371
+\c__regex_catcode_A_int=\count372
+\c__regex_all_catcodes_int=\count373
+\l__regex_show_lines_int=\count374
+\l__regex_min_state_int=\count375
+\l__regex_max_state_int=\count376
+\l__regex_left_state_int=\count377
+\l__regex_right_state_int=\count378
+\l__regex_capturing_group_int=\count379
+\l__regex_min_pos_int=\count380
+\l__regex_max_pos_int=\count381
+\l__regex_curr_pos_int=\count382
+\l__regex_start_pos_int=\count383
+\l__regex_success_pos_int=\count384
+\l__regex_curr_char_int=\count385
+\l__regex_curr_catcode_int=\count386
+\l__regex_last_char_int=\count387
+\l__regex_case_changed_char_int=\count388
+\l__regex_curr_state_int=\count389
+\l__regex_step_int=\count390
+\l__regex_min_active_int=\count391
+\l__regex_max_active_int=\count392
+\l__regex_replacement_csnames_int=\count393
+\l__regex_match_count_int=\count394
+\l__regex_min_submatch_int=\count395
+\l__regex_submatch_int=\count396
+\l__regex_zeroth_submatch_int=\count397
+\g__regex_trace_regex_int=\count398
+\c_empty_box=\box59
+\l_tmpa_box=\box60
+\l_tmpb_box=\box61
+\g_tmpa_box=\box62
+\g_tmpb_box=\box63
+\l__box_top_dim=\dimen323
+\l__box_bottom_dim=\dimen324
+\l__box_left_dim=\dimen325
+\l__box_right_dim=\dimen326
+\l__box_top_new_dim=\dimen327
+\l__box_bottom_new_dim=\dimen328
+\l__box_left_new_dim=\dimen329
+\l__box_right_new_dim=\dimen330
+\l__box_internal_box=\box64
+\l__coffin_internal_box=\box65
+\l__coffin_internal_dim=\dimen331
+\l__coffin_offset_x_dim=\dimen332
+\l__coffin_offset_y_dim=\dimen333
+\l__coffin_x_dim=\dimen334
+\l__coffin_y_dim=\dimen335
+\l__coffin_x_prime_dim=\dimen336
+\l__coffin_y_prime_dim=\dimen337
+\c_empty_coffin=\box66
+\l__coffin_aligned_coffin=\box67
+\l__coffin_aligned_internal_coffin=\box68
+\l_tmpa_coffin=\box69
+\l_tmpb_coffin=\box70
+\l__coffin_display_coffin=\box71
+\l__coffin_display_coord_coffin=\box72
+\l__coffin_display_pole_coffin=\box73
+\l__coffin_display_offset_dim=\dimen338
+\l__coffin_display_x_dim=\dimen339
+\l__coffin_display_y_dim=\dimen340
+\l__coffin_bounding_shift_dim=\dimen341
+\l__coffin_left_corner_dim=\dimen342
+\l__coffin_right_corner_dim=\dimen343
+\l__coffin_bottom_corner_dim=\dimen344
+\l__coffin_top_corner_dim=\dimen345
+\l__coffin_scaled_total_height_dim=\dimen346
+\l__coffin_scaled_width_dim=\dimen347
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count399
+\l__driver_tmp_box=\box74
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count400
+\g__xparse_grabber_int=\count401
+\l__xparse_m_args_int=\count402
+\l__xparse_mandatory_args_int=\count403
+\l__xparse_v_nesting_int=\count404
+)
+Package: siunitx 2017/11/26 v2.7k A comprehensive (SI) units package
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box75
+\l__siunitx_tmp_dim=\dimen348
+\l__siunitx_tmp_int=\count405
+\l__siunitx_number_mantissa_length_int=\count406
+\l__siunitx_number_uncert_length_int=\count407
+\l__siunitx_round_int=\count408
+\l__siunitx_process_decimal_int=\count409
+\l__siunitx_process_uncertainty_int=\count410
+\l__siunitx_process_fixed_int=\count411
+\l__siunitx_process_integer_min_int=\count412
+\l__siunitx_process_precision_int=\count413
+\l__siunitx_group_min_int=\count414
+\l__siunitx_angle_marker_box=\box76
+\l__siunitx_angle_unit_box=\box77
+\l__siunitx_angle_marker_dim=\dimen349
+\l__siunitx_angle_unit_dim=\dimen350
+\l__siunitx_unit_int=\count415
+\l__siunitx_unit_denominator_int=\count416
+\l__siunitx_unit_numerator_int=\count417
+\l__siunitx_unit_prefix_int=\count418
+\l__siunitx_unit_prefix_base_int=\count419
+\l__siunitx_unit_prefix_gram_int=\count420
+\l__siunitx_number_product_int=\count421
+\c__siunitx_one_fill_skip=\skip284
+\l__siunitx_table_unit_align_skip=\skip285
+\l__siunitx_table_exponent_dim=\dimen351
+\l__siunitx_table_integer_dim=\dimen352
+\l__siunitx_table_mantissa_dim=\dimen353
+\l__siunitx_table_marker_dim=\dimen354
+\l__siunitx_table_result_dim=\dimen355
+\l__siunitx_table_uncert_dim=\dimen356
+\l__siunitx_table_fill_pre_dim=\dimen357
+\l__siunitx_table_fill_post_dim=\dimen358
+\l__siunitx_table_fill_mid_dim=\dimen359
+\l__siunitx_table_pre_box=\box78
+\l__siunitx_table_post_box=\box79
+\l__siunitx_table_mantissa_box=\box80
+\l__siunitx_table_result_box=\box81
+\l__siunitx_table_number_align_skip=\skip286
+\l__siunitx_table_text_align_skip=\skip287
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7265.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7268.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7283.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7292.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7301.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7310.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7322.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7334.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7346.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7349.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7364.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7376.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7425.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7429.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7431.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7432.
+.................................................
+\g__file_internal_ior=\read4
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
 (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
@@ -1813,51 +2142,57 @@ Package: cite 2015/02/27  v 5.5
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/contents.aux)
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/introduction.aux)
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part1.aux)
-(/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part2.aux)
-(/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part3.aux)
+(/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part2.aux
+
+LaTeX Warning: Label `equation:hamiltonian' multiply defined.
+
+
+LaTeX Warning: Label `equation:hamiltonian@cref' multiply defined.
+
+) (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part3.aux)
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/conclusion.aux)
-\c@totalcount@figure@totc=\count316
-\c@totalcount@table@totc=\count317
-\c@TotPages@totc=\count318
+\c@totalcount@figure@totc=\count422
+\c@totalcount@table@totc=\count423
+\c@TotPages@totc=\count424
 )
 \openout1 = `Bogdanov_dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-Package nag Info: pgf.sty is broken: disabling dollar check on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 47.
 Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
-line 29.
+line 47.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
- line 29.
+ line 47.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
-\scratchdimen=\dimen317
-\scratchbox=\box59
-\nofMPsegments=\count320
-\nofMParguments=\count321
+\scratchcounter=\count425
+\scratchdimen=\dimen360
+\scratchbox=\box82
+\nofMPsegments=\count426
+\nofMParguments=\count427
 \everyMPshowfont=\toks63
-\MPscratchCnt=\count322
-\MPscratchDim=\dimen318
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
+\MPscratchCnt=\count428
+\MPscratchDim=\dimen361
+\MPnumerator=\count429
+\makeMPintoPDFobject=\count430
 \everyMPtoPDFconversion=\toks64
 )
 *geometry* driver: auto-detecting
@@ -1894,22 +2229,22 @@ Package nag Info: Command \RaggedRight not defined, skipping amendment on input
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring ON on input line 29.
+\AtBeginShipoutBox=\box83
+Package hyperref Info: Link coloring ON on input line 47.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count325
+\c@section@level=\count431
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 29.
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
 (/home/zzunked/Documents/Magistracy/Dissertation/Bogdanov_dissertation.out)
 (/home/zzunked/Documents/Magistracy/Dissertation/Bogdanov_dissertation.out)
 \@outlinefile=\write6
@@ -1917,18 +2252,125 @@ LaTeX Info: Redefining \nameref on input line 29.
 
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count326
-Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
-put line 29.
-Package nag Info: Command \captionabove not defined, skipping amendment on inpu
-t line 29.
-Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
-t line 29.
-Package nag Info: Command \hc@caption not defined, skipping amendment on input 
-line 29.
-Package nag Info: Command \topcaption not defined, skipping amendment on input 
-line 29.
+\c@lstlisting=\count432
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
 
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+LaTeX Info: Redefining \celsius on input line 47.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 47.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 47.
+Package gensymb Info: Using \Omega for \ohm on input line 47.
+
+Package gensymb Warning: Not defining \micro.
+
+Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
+put line 47.
+Package nag Info: Command \captionabove not defined, skipping amendment on inpu
+t line 47.
+Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
+t line 47.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input 
+line 47.
+Package nag Info: Command \topcaption not defined, skipping amendment on input 
+line 47.
+\c__siunitx_mathsf_int=\count433
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c__siunitx_mathtt_int=\count434
+<<ot1tt.cmap>>
 (/home/zzunked/Documents/Magistracy/Dissertation/common/renames.tex)
 \openout2 = `Dissertation/title.aux'.
 
@@ -1938,19 +2380,19 @@ line 29.
 pdfTeX warning: pdflatex (file /home/zzunked/Documents/Magistracy/Dissertation/
 images/logo.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
 1.5> allowed
-<images/logo.pdf, id=68, 85.35829pt x 106.69783pt>
+<images/logo.pdf, id=93, 85.35829pt x 106.69783pt>
 File: images/logo.pdf Graphic file (type pdf)
 <use images/logo.pdf>
 Package pdftex.def Info: images/logo.pdf  used on input line 15.
 (pdftex.def)             Requested size: 113.82076pt x 142.26378pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 78.
 [1.1
 
 
@@ -1963,25 +2405,20 @@ gistracy/Dissertation/images/logo.pdf>])
 (/home/zzunked/Documents/Magistracy/Dissertation/Bogdanov_dissertation.toc<<t1.
 cmap>>
 Package cleveref Info: loaded `russian' language definitions on input line 2.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+Package cleveref Info: loaded `russian' language definitions on input line 39.
+Package cleveref Info: loaded `russian' language definitions on input line 109.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+Package cleveref Info: loaded `russian' language definitions on input line 122.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)))
+))
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 53.
  [2.2
 
 
@@ -1996,32 +2433,28 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 2.
 
 (/home/zzunked/Documents/Magistracy/Dissertation/common/characteristic.tex
-Underfull \hbox (badness 3492) in paragraph at lines 37--45
-\T2A/cmr/m/n/14.4 ту^^?ры(Near-Edge X-Ray Absorption Fine Structure Spectroscop
-y, NEXAFS
- []
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 46.
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 46.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 46.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 46.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 46.
 [3.3
 
 
 
 ]))
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 54.
  [4.4]
 \openout2 = `Dissertation/part1.aux'.
 
@@ -2035,41 +2468,112 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 3.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 10.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 10.
-<Dissertation/images/BN_forms.png, id=160, 361.35pt x 509.905pt>
+<Dissertation/images/BN_forms.png, id=205, 862.22125pt x 673.51625pt>
 File: Dissertation/images/BN_forms.png Graphic file (type png)
 <use Dissertation/images/BN_forms.png>
 Package pdftex.def Info: Dissertation/images/BN_forms.png  used on input line 1
-7.
-(pdftex.def)             Requested size: 199.16626pt x 281.04771pt.
-)
+9.
+(pdftex.def)             Requested size: 298.75697pt x 233.3705pt.
+<Dissertation/images/BN_electron_structure.png, id=211, 2110.88625pt x 2481.27p
+t>
+File: Dissertation/images/BN_electron_structure.png Graphic file (type png)
+<use Dissertation/images/BN_electron_structure.png>
+Package pdftex.def Info: Dissertation/images/BN_electron_structure.png  used on
+ input line 35.
+(pdftex.def)             Requested size: 298.75697pt x 351.16154pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 40.
 
 [5.5
 
 
 
-]
+ </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/BN_forms.
+png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
- [6.6 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/BN_f
-orms.png>]
+(babel)             in language  on input line 61.
+ [6.6 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/BN_e
+lectron_structure.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 61.
+<Dissertation/images/CVD_BN.png, id=246, 998.73125pt x 189.70876pt>
+File: Dissertation/images/CVD_BN.png Graphic file (type png)
+<use Dissertation/images/CVD_BN.png>
+Package pdftex.def Info: Dissertation/images/CVD_BN.png  used on input line 85.
+
+(pdftex.def)             Requested size: 497.92325pt x 94.57913pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 100.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 100.
+ [7.7 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/CVD_
+BN.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 103.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 103.
+<Dissertation/images/BN_moir.png, id=258, 1255.69125pt x 665.48625pt>
+File: Dissertation/images/BN_moir.png Graphic file (type png)
+<use Dissertation/images/BN_moir.png>
+Package pdftex.def Info: Dissertation/images/BN_moir.png  used on input line 11
+7.
+(pdftex.def)             Requested size: 348.54475pt x 184.7203pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 129.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 129.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 129.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 129.
+ [8.8 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/BN_m
+oir.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 134.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 134.
+
+Underfull \hbox (badness 3612) in paragraph at lines 140--162
+[]\T2A/cmr/m/n/14.4 Одним из наи^^?бо^^?лее ин^^?те^^?рес^^?ных на^^?прав^^?ле^
+^?ний ис^^?сле^^?до^^?ва^^?ния си^^?стем
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 169.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 169.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 169.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 169.
+[9.9])
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 55.
+ [10.10]
 \openout2 = `Dissertation/part2.aux'.
 
 
@@ -2078,24 +2582,176 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
-)
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 45.
 
-[7.7
+[11.11
 
 
 
 ]
+<Dissertation/images/evald.png, id=305, 705.63625pt x 699.61375pt>
+File: Dissertation/images/evald.png Graphic file (type png)
+<use Dissertation/images/evald.png>
+Package pdftex.def Info: Dissertation/images/evald.png  used on input line 57.
+(pdftex.def)             Requested size: 199.16626pt x 197.45978pt.
+<Dissertation/images/leed_setup.png, id=307, 890.32625pt x 490.83376pt>
+File: Dissertation/images/leed_setup.png Graphic file (type png)
+<use Dissertation/images/leed_setup.png>
+Package pdftex.def Info: Dissertation/images/leed_setup.png  used on input line
+ 73.
+(pdftex.def)             Requested size: 348.54475pt x 192.15086pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 97.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 97.
+ [12.12 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/ev
+ald.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 122.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 122.
+ [13.13 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/le
+ed_setup.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 143.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 173.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 173.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 173.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 173.
+ [14.14]
+<Dissertation/images/xps_pic.png, id=330, 591.20876pt x 789.95125pt>
+File: Dissertation/images/xps_pic.png Graphic file (type png)
+<use Dissertation/images/xps_pic.png>
+Package pdftex.def Info: Dissertation/images/xps_pic.png  used on input line 17
+9.
+(pdftex.def)             Requested size: 248.96162pt x 332.64513pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 200.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 200.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 200.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 200.
+ [15.15 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/xp
+s_pic.png>]
+
+LaTeX Warning: Command \l invalid in math mode on input line 253.
+
+
+LaTeX Warning: Command \l invalid in math mode on input line 253.
+
+<Dissertation/images/mean_free_path.png, id=346, 948.54375pt x 605.26125pt>
+File: Dissertation/images/mean_free_path.png Graphic file (type png)
+<use Dissertation/images/mean_free_path.png>
+Package pdftex.def Info: Dissertation/images/mean_free_path.png  used on input 
+line 270.
+(pdftex.def)             Requested size: 348.54475pt x 222.40082pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 283.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 283.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 283.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 283.
+[16.16]
+<Dissertation/images/final_state_photoemission.png, id=365, 3402.7125pt x 1582.
+91376pt>
+File: Dissertation/images/final_state_photoemission.png Graphic file (type png)
+
+<use Dissertation/images/final_state_photoemission.png>
+Package pdftex.def Info: Dissertation/images/final_state_photoemission.png  use
+d on input line 290.
+(pdftex.def)             Requested size: 348.54475pt x 162.11687pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 303.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 303.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 303.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 303.
+ [17.17 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/me
+an_free_path.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 324.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 324.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 324.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 324.
+ [18.18 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/fi
+nal_state_photoemission.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 369.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 369.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 369.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 369.
+ [19.19]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 397.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 397.
+<Dissertation/images/NEXAFS_pic.png, id=390, 833.1125pt x 968.61874pt>
+File: Dissertation/images/NEXAFS_pic.png Graphic file (type png)
+<use Dissertation/images/NEXAFS_pic.png>
+Package pdftex.def Info: Dissertation/images/NEXAFS_pic.png  used on input line
+ 406.
+(pdftex.def)             Requested size: 248.96162pt x 289.44981pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 417.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 417.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 417.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 417.
+ [20.20])
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 56.
+
+[21.21 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/NEX
+AFS_pic.png>]
 \openout2 = `Dissertation/part3.aux'.
 
- (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part3.tex
+
+(/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part3.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
@@ -2118,33 +2774,33 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex (file ./imagesLEED-eps-converted-to.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesLEED-eps-converted-to.pdf, id=189, 772.8875pt x 771.88374pt>
+<./imagesLEED-eps-converted-to.pdf, id=411, 772.8875pt x 771.88374pt>
 File: ./imagesLEED-eps-converted-to.pdf Graphic file (type pdf)
 <use ./imagesLEED-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesLEED-eps-converted-to.pdf  used on input line 
 21.
 (pdftex.def)             Requested size: 149.37848pt x 149.17992pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 30.
-[8.8
+(babel)             in language  on input line 32.
+[22.22
 
 
 
  <./imagesLEED-eps-converted-to.pdf>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 55.
 Package epstopdf Info: Source file: <Dissertation/images/Surveys.eps>
 (epstopdf)                    date: 2019-04-01 10:03:55
 (epstopdf)                    size: 212863 bytes
@@ -2153,62 +2809,62 @@ Package epstopdf Info: Source file: <Dissertation/images/Surveys.eps>
 (epstopdf)                    size: 53627 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesSurveys-eps-conver
 ted-to.pdf Dissertation/images/Surveys.eps>
-(epstopdf)             \includegraphics on input line 55.
+(epstopdf)             \includegraphics on input line 61.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesSurveys-eps-converted-to.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesSurveys-eps-converted-to.pdf, id=201, 678.535pt x 343.2825pt>
+<./imagesSurveys-eps-converted-to.pdf, id=423, 678.535pt x 343.2825pt>
 File: ./imagesSurveys-eps-converted-to.pdf Graphic file (type pdf)
 <use ./imagesSurveys-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesSurveys-eps-converted-to.pdf  used on input li
-ne 55.
+ne 61.
 (pdftex.def)             Requested size: 497.92325pt x 251.90364pt.
 Package epstopdf Info: Source file: <Dissertation/images/N_B_O_tot_percent_vs_t
 ime.eps>
-(epstopdf)                    date: 2019-05-16 00:42:26
-(epstopdf)                    size: 44527 bytes
+(epstopdf)                    date: 2019-05-20 12:05:41
+(epstopdf)                    size: 44745 bytes
 (epstopdf)             Output file: <./imagesN_B_O_tot_percent_vs_time-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2019-05-16 00:42:31
-(epstopdf)                    size: 15191 bytes
+(epstopdf)                    date: 2019-05-20 12:05:48
+(epstopdf)                    size: 15384 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesN_B_O_tot_percent_
 vs_time-eps-converted-to.pdf Dissertation/images/N_B_O_tot_percent_vs_time.eps>
 
-(epstopdf)             \includegraphics on input line 72.
+(epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesN_B_O_tot_percent_vs_time-eps-converted-
 to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
 wed
-<./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf, id=204, 601.24625pt x 
-344.28625pt>
+<./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf, id=426, 555.07375pt x 
+333.245pt>
 File: ./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf Graphic file (type
  pdf)
 <use ./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf
-  used on input line 72.
-(pdftex.def)             Requested size: 398.3401pt x 228.10693pt.
+  used on input line 80.
+(pdftex.def)             Requested size: 398.3401pt x 239.14804pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 78.
-[9.9]
+(babel)             in language  on input line 86.
+[23.23]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 80.
- [10.10 <./imagesSurveys-eps-converted-to.pdf>]
+(babel)             in language  on input line 86.
+ [24.24 <./imagesSurveys-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Dissertation/images/B1s_N1s_fits.eps>
 (epstopdf)                    date: 2019-04-03 18:42:18
 (epstopdf)                    size: 5706049 bytes
@@ -2218,70 +2874,70 @@ Package epstopdf Info: Source file: <Dissertation/images/B1s_N1s_fits.eps>
 (epstopdf)                    size: 521498 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesB1s_N1s_fits-eps-c
 onverted-to.pdf Dissertation/images/B1s_N1s_fits.eps>
-(epstopdf)             \includegraphics on input line 84.
+(epstopdf)             \includegraphics on input line 92.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesB1s_N1s_fits-eps-converted-to.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesB1s_N1s_fits-eps-converted-to.pdf, id=284, 575.14874pt x 546.04pt>
+<./imagesB1s_N1s_fits-eps-converted-to.pdf, id=504, 575.14874pt x 546.04pt>
 File: ./imagesB1s_N1s_fits-eps-converted-to.pdf Graphic file (type pdf)
 <use ./imagesB1s_N1s_fits-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesB1s_N1s_fits-eps-converted-to.pdf  used on inp
-ut line 84.
+ut line 92.
 (pdftex.def)             Requested size: 398.3401pt x 378.19276pt.
 Package epstopdf Info: Source file: <Dissertation/images/Concentration_B_BN3_BN
 2O_BO3_vs_O.eps>
-(epstopdf)                    date: 2019-05-16 00:23:15
-(epstopdf)                    size: 48184 bytes
+(epstopdf)                    date: 2019-05-20 20:50:15
+(epstopdf)                    size: 48423 bytes
 (epstopdf)             Output file: <./imagesConcentration_B_BN3_BN2O_BO3_vs_O-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-16 00:24:17
-(epstopdf)                    size: 16684 bytes
+(epstopdf)                    date: 2019-05-20 20:50:20
+(epstopdf)                    size: 16873 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesConcentration_B_BN
 3_BN2O_BO3_vs_O-eps-converted-to.pdf Dissertation/images/Concentration_B_BN3_BN
 2O_BO3_vs_O.eps>
-(epstopdf)             \includegraphics on input line 103.
+(epstopdf)             \includegraphics on input line 110.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-co
 nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
 .5> allowed
-<./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converted-to.pdf, id=287, 594.22
-pt x 376.40625pt>
+<./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converted-to.pdf, id=510, 630.35
+5pt x 378.41376pt>
 File: ./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converted-to.pdf Graphic fi
 le (type pdf)
 <use ./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converte
-d-to.pdf  used on input line 103.
-(pdftex.def)             Requested size: 398.3401pt x 252.33446pt.
+d-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 398.3401pt x 239.12946pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 107.
-[11.11 <./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf>]
+(babel)             in language  on input line 114.
+[25.25 <./imagesN_B_O_tot_percent_vs_time-eps-converted-to.pdf>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 118.
- [12.12 <./imagesB1s_N1s_fits-eps-converted-to.pdf>]
+(babel)             in language  on input line 125.
+ [26.26 <./imagesB1s_N1s_fits-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Dissertation/images/Conc_Nfree_Nco_Ntot_vs
 _O.eps>
-(epstopdf)                    date: 2019-05-16 00:47:56
-(epstopdf)                    size: 48401 bytes
+(epstopdf)                    date: 2019-05-20 21:58:53
+(epstopdf)                    size: 48643 bytes
 (epstopdf)             Output file: <./imagesConc_Nfree_Nco_Ntot_vs_O-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2019-05-16 00:48:01
-(epstopdf)                    size: 16862 bytes
+(epstopdf)                    date: 2019-05-20 23:22:44
+(epstopdf)                    size: 17028 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesConc_Nfree_Nco_Nto
 t_vs_O-eps-converted-to.pdf Dissertation/images/Conc_Nfree_Nco_Ntot_vs_O.eps>
 (epstopdf)             \includegraphics on input line 130.
@@ -2291,81 +2947,44 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-t
 o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
 ed
-<./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf, id=336, 690.58pt x 377.
-41pt>
+<./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf, id=563, 722.7pt x 424.5
+8624pt>
 File: ./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use ./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf 
  used on input line 130.
-(pdftex.def)             Requested size: 398.3401pt x 217.70012pt.
+(pdftex.def)             Requested size: 398.3401pt x 234.022pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 144.
-[13.13 <./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Dissertation/images/O1s_all_fits.eps>
-(epstopdf)                    date: 2019-03-31 20:21:48
-(epstopdf)                    size: 599383 bytes
-(epstopdf)             Output file: <./imagesO1s_all_fits-eps-converted-to.pdf>
-
-(epstopdf)                    date: 2019-04-03 15:10:33
-(epstopdf)                    size: 94905 bytes
-(epstopdf)             Command: <repstopdf --outfile=./imagesO1s_all_fits-eps-c
-onverted-to.pdf Dissertation/images/O1s_all_fits.eps>
-(epstopdf)             \includegraphics on input line 147.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagesO1s_all_fits-eps-converted-to.pdf): PDF 
-inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesO1s_all_fits-eps-converted-to.pdf, id=380, 379.4175pt x 546.04pt>
-File: ./imagesO1s_all_fits-eps-converted-to.pdf Graphic file (type pdf)
-<use ./imagesO1s_all_fits-eps-converted-to.pdf>
-Package pdftex.def Info: ./imagesO1s_all_fits-eps-converted-to.pdf  used on inp
-ut line 147.
-(pdftex.def)             Requested size: 248.96162pt x 358.2962pt.
-Package epstopdf Info: Source file: <Dissertation/images/O_components_vs_time.e
-ps>
-(epstopdf)                    date: 2019-05-16 01:03:06
-(epstopdf)                    size: 40592 bytes
-(epstopdf)             Output file: <./imagesO_components_vs_time-eps-converted
--to.pdf>
-(epstopdf)                    date: 2019-05-16 01:32:23
-(epstopdf)                    size: 13764 bytes
-(epstopdf)             Command: <repstopdf --outfile=./imagesO_components_vs_ti
-me-eps-converted-to.pdf Dissertation/images/O_components_vs_time.eps>
-(epstopdf)             \includegraphics on input line 164.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagesO_components_vs_time-eps-converted-to.pd
-f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesO_components_vs_time-eps-converted-to.pdf, id=384, 520.94624pt x 317.1
-85pt>
-File: ./imagesO_components_vs_time-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ./imagesO_components_vs_time-eps-converted-to.pdf>
-Package pdftex.def Info: ./imagesO_components_vs_time-eps-converted-to.pdf  use
-d on input line 164.
-(pdftex.def)             Requested size: 298.75697pt x 181.9008pt.
+(babel)             in language  on input line 134.
+[27.27 <./imagesConcentration_B_BN3_BN2O_BO3_vs_O-eps-converted-to.pdf>]
+<Dissertation/images/O1s_all_fits_and_angle55.png, id=606, 941.5175pt x 758.835
+pt>
+File: Dissertation/images/O1s_all_fits_and_angle55.png Graphic file (type png)
+<use Dissertation/images/O1s_all_fits_and_angle55.png>
+Package pdftex.def Info: Dissertation/images/O1s_all_fits_and_angle55.png  used
+ on input line 143.
+(pdftex.def)             Requested size: 348.54475pt x 280.91508pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 168.
-[14.14 <./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf>]
+(babel)             in language  on input line 149.
+
+[28.28 <./imagesConc_Nfree_Nco_Ntot_vs_O-eps-converted-to.pdf>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 170.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 170.
+(babel)             in language  on input line 153.
 Package epstopdf Info: Source file: <Dissertation/images/BN_B_K_edge_all_40deg_
 to_beam.eps>
 (epstopdf)                    date: 2019-04-19 12:26:41
@@ -2377,48 +2996,48 @@ converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./imagesBN_B_K_edge_all_40
 deg_to_beam-eps-converted-to.pdf Dissertation/images/BN_B_K_edge_all_40deg_to_b
 eam.eps>
-(epstopdf)             \includegraphics on input line 175.
+(epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesBN_B_K_edge_all_40deg_to_beam-eps-conver
 ted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
 allowed
-<./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to.pdf, id=430, 590.205pt 
+<./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to.pdf, id=657, 590.205pt 
 x 570.13pt>
 File: ./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to.pdf Graphic file (
 type pdf)
 <use ./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to
-.pdf  used on input line 175.
+.pdf  used on input line 157.
 (pdftex.def)             Requested size: 398.3401pt x 384.79504pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
-[15.15 <./imagesO1s_all_fits-eps-converted-to.pdf> <./imagesO_components_vs_tim
-e-eps-converted-to.pdf>]
+(babel)             in language  on input line 165.
+[29.29 </home/zzunked/Documents/Magistracy/Dissertation/Dissertation/images/O1s
+_all_fits_and_angle55.png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
- [16.16 <./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to.pdf>]
+(babel)             in language  on input line 165.
+ [30.30 <./imagesBN_B_K_edge_all_40deg_to_beam-eps-converted-to.pdf>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 168.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 168.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 170.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 170.
 Package epstopdf Info: Source file: <Dissertation/images/BN_200x200_experiment_
 and_model.eps>
 (epstopdf)                    date: 2019-05-17 00:04:31
@@ -2430,47 +3049,47 @@ s-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./imagesBN_200x200_experim
 ent_and_model-eps-converted-to.pdf Dissertation/images/BN_200x200_experiment_an
 d_model.eps>
-(epstopdf)             \includegraphics on input line 205.
+(epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesBN_200x200_experiment_and_model-eps-conv
 erted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
-<./imagesBN_200x200_experiment_and_model-eps-converted-to.pdf, id=521, 778.91pt
+<./imagesBN_200x200_experiment_and_model-eps-converted-to.pdf, id=676, 778.91pt
  x 445.665pt>
 File: ./imagesBN_200x200_experiment_and_model-eps-converted-to.pdf Graphic file
  (type pdf)
 <use ./imagesBN_200x200_experiment_and_model-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesBN_200x200_experiment_and_model-eps-converted-
-to.pdf  used on input line 205.
+to.pdf  used on input line 179.
 (pdftex.def)             Requested size: 398.3401pt x 227.91176pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 219.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 219.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 219.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 219.
-[17.17]
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 220.
+(babel)             in language  on input line 195.
+[31.31]
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 195.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 220.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 220.
+(babel)             in language  on input line 195.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `math shift' on input line 195.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 220.
+(hyperref)                removing `subscript' on input line 195.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `math shift' on input line 195.
 
 Package epstopdf Info: Source file: <Dissertation/images/BNO2_relaxed3.eps>
 (epstopdf)                    date: 2019-05-16 16:49:57
@@ -2481,18 +3100,18 @@ Package epstopdf Info: Source file: <Dissertation/images/BNO2_relaxed3.eps>
 (epstopdf)                    size: 520090 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesBNO2_relaxed3-eps-
 converted-to.pdf Dissertation/images/BNO2_relaxed3.eps>
-(epstopdf)             \includegraphics on input line 227.
+(epstopdf)             \includegraphics on input line 202.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesBNO2_relaxed3-eps-converted-to.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesBNO2_relaxed3-eps-converted-to.pdf, id=531, 2091.815pt x 1275.76625pt>
+<./imagesBNO2_relaxed3-eps-converted-to.pdf, id=686, 2091.815pt x 1275.76625pt>
 
 File: ./imagesBNO2_relaxed3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./imagesBNO2_relaxed3-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesBNO2_relaxed3-eps-converted-to.pdf  used on in
-put line 227.
+put line 202.
 (pdftex.def)             Requested size: 219.58511pt x 133.91074pt.
 Package epstopdf Info: Source file: <Dissertation/images/BNO2_relaxed4.eps>
 (epstopdf)                    date: 2019-05-16 16:48:16
@@ -2503,43 +3122,43 @@ Package epstopdf Info: Source file: <Dissertation/images/BNO2_relaxed4.eps>
 (epstopdf)                    size: 248267 bytes
 (epstopdf)             Command: <repstopdf --outfile=./imagesBNO2_relaxed4-eps-
 converted-to.pdf Dissertation/images/BNO2_relaxed4.eps>
-(epstopdf)             \includegraphics on input line 231.
+(epstopdf)             \includegraphics on input line 206.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./imagesBNO2_relaxed4-eps-converted-to.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./imagesBNO2_relaxed4-eps-converted-to.pdf, id=532, 2029.5825pt x 1217.54875pt
+<./imagesBNO2_relaxed4-eps-converted-to.pdf, id=687, 2029.5825pt x 1217.54875pt
 >
 File: ./imagesBNO2_relaxed4-eps-converted-to.pdf Graphic file (type pdf)
 <use ./imagesBNO2_relaxed4-eps-converted-to.pdf>
 Package pdftex.def Info: ./imagesBNO2_relaxed4-eps-converted-to.pdf  used on in
-put line 231.
+put line 206.
 (pdftex.def)             Requested size: 219.58511pt x 131.71996pt.
-<Dissertation/images/BNO2_B_height.png, id=535, 829.0975pt x 852.18375pt>
+<Dissertation/images/BNO2_B_height.png, id=692, 829.0975pt x 852.18375pt>
 File: Dissertation/images/BNO2_B_height.png Graphic file (type png)
 <use Dissertation/images/BNO2_B_height.png>
 Package pdftex.def Info: Dissertation/images/BNO2_B_height.png  used on input l
-ine 243.
+ine 219.
 (pdftex.def)             Requested size: 298.75697pt x 307.07198pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 223.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 223.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 223.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 247.
-[18.18 <./imagesBN_200x200_experiment_and_model-eps-converted-to.pdf>]
+(babel)             in language  on input line 223.
+[32.32 <./imagesBN_200x200_experiment_and_model-eps-converted-to.pdf>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 250.
+(babel)             in language  on input line 226.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 250.
+(babel)             in language  on input line 226.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 250.
+(babel)             in language  on input line 226.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 250.
- [19.19 <./imagesBNO2_relaxed3-eps-converted-to.pdf> <./imagesBNO2_relaxed4-eps
+(babel)             in language  on input line 226.
+ [33.33 <./imagesBNO2_relaxed3-eps-converted-to.pdf> <./imagesBNO2_relaxed4-eps
 -converted-to.pdf> </home/zzunked/Documents/Magistracy/Dissertation/Dissertatio
 n/images/BNO2_B_height.png>])
 \openout2 = `Dissertation/conclusion.aux'.
@@ -2553,14 +3172,14 @@ Package babel Info: Redefining russian shorthand "~
 
 (/home/zzunked/Documents/Magistracy/Dissertation/common/concl.tex))
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 40.
- [20.20
+(babel)             in language  on input line 58.
+ [34.34
 
 
 
@@ -2573,101 +3192,101 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 
 bibitemlist
-
-Underfull \hbox (badness 2818) in paragraph at lines 21--26
-\T2A/cmr/m/n/14.4 C. Neill, P. O'Malley, P. Roushan, A. Vainsencher, J. Wenner,
- and
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 56.
-[21.21
+[35.35
 
 
 ]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 110.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 110.
- [22.22]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 157.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 157.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 157.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 157.
- [23.23])
+Package cleveref Info: loaded `russian' language definitions on input line 116.
 
-Package nag Warning: Unmatched ``\center'' command on line 243.
+ [36.36] [37.37] [38.38] [39.39]
+Package cleveref Info: loaded `russian' language definitions on input line 491.
+
+Package cleveref Info: loaded `russian' language definitions on input line 491.
+
+)
+
+Package nag Warning: Unmatched ``\center'' command on line 219.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 231.
+Package nag Warning: Unmatched ``\center'' command on line 206.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 227.
+Package nag Warning: Unmatched ``\center'' command on line 202.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 205.
+Package nag Warning: Unmatched ``\center'' command on line 179.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 175.
+Package nag Warning: Unmatched ``\center'' command on line 157.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 164.
-
-
-Package nag Warning: Unmatched ``\center'' command on line 147.
+Package nag Warning: Unmatched ``\center'' command on line 143.
 
 
 Package nag Warning: Unmatched ``\center'' command on line 130.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 103.
+Package nag Warning: Unmatched ``\center'' command on line 110.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 84.
+Package nag Warning: Unmatched ``\center'' command on line 92.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 72.
+Package nag Warning: Unmatched ``\center'' command on line 80.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 55.
+Package nag Warning: Unmatched ``\center'' command on line 61.
 
 
 Package nag Warning: Unmatched ``\center'' command on line 21.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 17.
+Package nag Warning: Unmatched ``\center'' command on line 406.
 
 
-Package nag Warning: 14 complaints in total.
+Package nag Warning: Unmatched ``\center'' command on line 290.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 270.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 179.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 73.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 57.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 117.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 85.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 35.
+
+
+Package nag Warning: Unmatched ``\center'' command on line 19.
+
+
+Package nag Warning: 22 complaints in total.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 50.
-[24.24]
+(babel)             in language  on input line 75.
+[40.40]
 \tf@toc=\write7
 \openout7 = `Bogdanov_dissertation.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
 
 (/home/zzunked/Documents/Magistracy/Dissertation/Bogdanov_dissertation.aux
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/title.aux)
@@ -2678,35 +3297,50 @@ Package cleveref Info: loaded `russian' language definitions on input line 23.
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part1.aux)
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part2.aux)
 (/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/part3.aux)
-(/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/conclusion.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
+(/home/zzunked/Documents/Magistracy/Dissertation/Dissertation/conclusion.aux)
+Package cleveref Info: loaded `russian' language definitions on input line 64.
+Package cleveref Info: loaded `russian' language definitions on input line 170.
+
+Package cleveref Info: loaded `russian' language definitions on input line 183.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
 Package rerunfilecheck Info: File `Bogdanov_dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 0567947DFD625098B70F27A3BBCCBAAE;4409.
+(rerunfilecheck)             Checksum: BEC37372418CE230E1787413D5C28A51;6908.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 33126 strings out of 492982
- 575483 string characters out of 6134896
- 721005 words of memory out of 5000000
- 35907 multiletter control sequences out of 15000+600000
- 14720 words of font info for 45 fonts, out of 8000000 for 9000
+ 43945 strings out of 492982
+ 818089 string characters out of 6134896
+ 927561 words of memory out of 5000000
+ 46569 multiletter control sequences out of 15000+600000
+ 548214 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,12n,56p,2236b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx14
-40.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfti1440.pfb>
+ 63i,12n,56p,10418b,1463s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
+fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+bx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
 Output written on /home/zzunked/Documents/Magistracy/Dissertation/Bogdanov_diss
-ertation.pdf (24 pages, 3213841 bytes).
+ertation.pdf (40 pages, 6471518 bytes).
 PDF statistics:
- 683 PDF objects out of 1000 (max. 8388607)
- 369 compressed objects within 4 object streams
- 103 named destinations out of 1000 (max. 500000)
- 232 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 879 PDF objects out of 1000 (max. 8388607)
+ 583 compressed objects within 6 object streams
+ 173 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 

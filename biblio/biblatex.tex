@@ -58,7 +58,6 @@ sorting=none,% настройка сортировки списка литера
 \addbibresource[label=vak]{biblio/authorpapersVAK.bib}
 \addbibresource[label=papers]{biblio/authorpapers.bib}
 \addbibresource[label=conf]{biblio/authorconferences.bib}
-\addbibresource[label=disspapers]{biblio/papers_for_disser.bib}
 
 
 %http://tex.stackexchange.com/a/141831/79756
@@ -69,6 +68,14 @@ sorting=none,% настройка сортировки списка литера
         \map{% перекидываем значения полей language в поля langid, которыми пользуется biblatex
             \step[fieldsource=language, fieldset=langid, origfieldval, final]
             \step[fieldset=language, null]
+        }
+        \map[overwrite]{% перекидываем значения полей shortjournal, если они есть, в поля journal, которыми пользуется biblatex
+            \step[fieldsource=shortjournal, final]
+            \step[fieldset=journal, origfieldval]
+        }
+        \map[overwrite]{% перекидываем значения полей shortbooktitle, если они есть, в поля booktitle, которыми пользуется biblatex
+            \step[fieldsource=shortbooktitle, final]
+            \step[fieldset=booktitle, origfieldval]
         }
         \map[overwrite, refsection=0]{% стираем значения всех полей addendum
             \perdatasource{biblio/authorpapersVAK.bib}
@@ -330,7 +337,7 @@ sorting=none,% настройка сортировки списка литера
 
 %%% Создание команд для вывода списка литературы %%%
 \newcommand*{\insertbibliofull}{
-\printbibliography[keyword=bibliofull,section=0]
+\printbibliography[keyword=bibliofull,section=0,title=\fullbibtitle]
 \printbibliography[heading=counter,env=counter,keyword=bibliofull,section=0]
 }
 

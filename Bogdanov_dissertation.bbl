@@ -1,161 +1,491 @@
 \begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\hbox to.8em{--\hss--}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
+\cyrdash\hskip.2em\ignorespaces}
 
 \bibitem{Wallace1947}
-P.~R. Wallace, ``The band theory of graphite,'' {\em Phys. Rev.}, vol.~71,
-  pp.~622--634, May 1947.
+\selectlanguageifdefined{english}
+\BibEmph{Wallace~P.~R.} The Band Theory of Graphite~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1947. \BibDash May. \BibDash
+\newblock Vol.~71. \BibDash
+\newblock P.~622--634.
 
 \bibitem{McClure1956}
-J.~W. McClure, ``Diamagnetism of graphite,'' {\em Phys. Rev.}, vol.~104,
-  pp.~666--671, Nov 1956.
+\selectlanguageifdefined{english}
+\BibEmph{McClure~J.~W.} Diamagnetism of Graphite~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1956. \BibDash Nov. \BibDash
+\newblock Vol. 104. \BibDash
+\newblock P.~666--671.
 
 \bibitem{Slonczewski1958}
-J.~C. Slonczewski and P.~R. Weiss, ``Band structure of graphite,'' {\em Phys.
-  Rev.}, vol.~109, pp.~272--279, Jan 1958.
+\selectlanguageifdefined{english}
+\BibEmph{Slonczewski~J.~C., Weiss~P.~R.} Band Structure of Graphite~//
+  \BibEmph{Phys. Rev.} \BibDash
+\newblock 1958. \BibDash Jan. \BibDash
+\newblock Vol. 109. \BibDash
+\newblock P.~272--279.
 
 \bibitem{Novoselov2004}
-K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D.~Jiang, Y.~Zhang, S.~V. Dubonos,
-  I.~V. Grigorieva, and A.~A. Firsov, ``Electric field effect in atomically
-  thin carbon films,'' {\em Science}, vol.~306, no.~5696, pp.~666--669, 2004.
+\selectlanguageifdefined{english}
+Electric Field Effect in Atomically Thin Carbon Films~/ K.~S.~Novoselov,
+  A.~K.~Geim, S.~V.~Morozov et~al.~// \BibEmph{Science}. \BibDash
+\newblock 2004. \BibDash
+\newblock Vol. 306, no. 5696. \BibDash
+\newblock P.~666--669.
 
 \bibitem{Barends2014}
-R.~Barends, J.~Kelly, A.~Megrant, A.~Veitia, D.~Sank, E.~Jeffrey, T.~C~White,
-  J.~Mutus, A.~Fowler, B.~Campbell, Y.~Chen, Z.~Chen, B.~Chiaro, A.~Dunsworth,
-  C.~Neill, P.~O'Malley, P.~Roushan, A.~Vainsencher, J.~Wenner, and
-  J.~M~Martinis, ``Superconducting quantum circuits at the surface code
-  threshold for fault tolerance,'' {\em Nature}, vol.~508, pp.~500--3, 04 2014.
+\selectlanguageifdefined{english}
+Superconducting quantum circuits at the surface code threshold for fault
+  tolerance~/ R~Barends, J~Kelly, A~Megrant et~al.~// \BibEmph{Nature}.
+  \BibDash
+\newblock 2014. \BibDash 04. \BibDash
+\newblock Vol. 508. \BibDash
+\newblock P.~500--3.
 
 \bibitem{G.Joachim2000}
-C.~G.~Joachim, J.~Gimzewski, and a.~A.~Aviram, ``Electronics using
-  hybrid-molecular and mono-molecular devices,'' {\em Nature}, vol.~408,
-  pp.~541--8, 12 2000.
+\selectlanguageifdefined{english}
+\BibEmph{Joachim~C, Gimzewski~James, Aviram~A.} Electronics using
+  hybrid-molecular and mono-molecular devices~// \BibEmph{Nature}. \BibDash
+\newblock 2000. \BibDash 12. \BibDash
+\newblock Vol. 408. \BibDash
+\newblock P.~541--8.
 
 \bibitem{Nitzan2003}
-A.~Nitzan and M.~A. Ratner, ``Electron transport in molecular wire junctions,''
-  {\em Science}, vol.~300, no.~5624, pp.~1384--1389, 2003.
+\selectlanguageifdefined{english}
+\BibEmph{Nitzan~Abraham, Ratner~Mark~A.} Electron Transport in Molecular Wire
+  Junctions~// \BibEmph{Science}. \BibDash
+\newblock 2003. \BibDash
+\newblock Vol. 300, no. 5624. \BibDash
+\newblock P.~1384--1389.
+
+\bibitem{Kubota2007}
+\selectlanguageifdefined{english}
+Deep Ultraviolet Light-Emitting Hexagonal Boron Nitride Synthesized at
+  Atmospheric Pressure~/ Yoichi~Kubota, Kenji~Watanabe, Osamu~Tsuda,
+  Takashi~Taniguchi~// \BibEmph{Science (New York, N.Y.)}. \BibDash
+\newblock 2007. \BibDash 09. \BibDash
+\newblock Vol. 317. \BibDash
+\newblock P.~932--4.
 
 \bibitem{Zheng2008}
-M.~Zheng, Y.~Liu, Y.~Gu, and Z.~Xu, ``Synthesis and characterization of boron
-  nitride sponges as a novel support for metal nanoparticles,'' {\em Science in
-  China Series B: Chemistry}, vol.~51, pp.~205--210, Mar 2008.
+\selectlanguageifdefined{english}
+Synthesis and characterization of boron nitride sponges as a novel support for
+  metal nanoparticles~/ MingTao~Zheng, YingLiang~Liu, YunLe~Gu, ZiLin~Xu~//
+  \BibEmph{Science in China Series B: Chemistry}. \BibDash
+\newblock 2008. \BibDash Mar. \BibDash
+\newblock Vol.~51, no.~3. \BibDash
+\newblock P.~205--210.
 
 \bibitem{Chau2007}
-R.~Chau, B.~Doyle, S.~Datta, J.~Kavalieros, and K.~Zhang, ``Integrated
-  nanoelectronics for the future,'' {\em Nature materials}, vol.~6, pp.~810--2,
-  12 2007.
+\selectlanguageifdefined{english}
+Integrated nanoelectronics for the future~/ Robert~Chau, Barney~Doyle, S~Datta
+  et~al.~// \BibEmph{Nature materials}. \BibDash
+\newblock 2007. \BibDash 12. \BibDash
+\newblock Vol.~6. \BibDash
+\newblock P.~810--2.
 
 \bibitem{Kamalakar2014}
-M.~V. Kamalakar, A.~Dankert, J.~Bergsten, T.~Ive, and S.~Dash, ``Enhanced
-  tunnel spin injection into graphene using chemical vapor deposited hexagonal
-  boron nitride,'' {\em Scientific reports}, vol.~4, 06 2014.
+\selectlanguageifdefined{english}
+Enhanced Tunnel Spin Injection into Graphene using Chemical Vapor Deposited
+  Hexagonal Boron Nitride~/ M.~Venkata~Kamalakar, André~Dankert,
+  Johan~Bergsten et~al.~// \BibEmph{Scientific reports}. \BibDash
+\newblock 2014. \BibDash 06. \BibDash
+\newblock Vol.~4.
 
 \bibitem{Kamalakar2016}
-M.~V. Kamalakar, A.~Dankert, P.~J.~Kelly, and S.~Dash, ``Inversion of spin
-  signal and spin filtering in ferromagnet|hexagonal boron nitride-graphene van
-  der waals heterostructures,'' {\em Scientific Reports}, vol.~6, p.~21168, 02
-  2016.
+\selectlanguageifdefined{english}
+Inversion of Spin Signal and Spin Filtering in Ferromagnet|Hexagonal Boron
+  Nitride-Graphene van der Waals Heterostructures~/ M.~Venkata~Kamalakar,
+  André~Dankert, Paul~J.~Kelly, Saroj~Dash~// \BibEmph{Scientific Reports}.
+  \BibDash
+\newblock 2016. \BibDash 02. \BibDash
+\newblock Vol.~6. \BibDash
+\newblock P.~21168.
 
 \bibitem{Usachev_doc}
-Д.Ю.Усачев, {\em Синтез и управление
+\selectlanguageifdefined{russian}
+\BibEmph{Д.Ю.Усачев}. Синтез и управление
   электронной структурой систем на основе
-  графена : дис. ... д-ра физ.-мат. наук : 01.04.07}.
-\newblock 2015.
+  графена : дис. ... д-ра физ.-мат. наук : 01.04.07.
+  \BibDash
+\newblock СПб., 2015. \BibDash
+\newblock 258~{с.}
 
 \bibitem{Kidambi2014}
-P.~Kidambi, R.~Blume, J.~Kling, J.~Wagner, C.~Baehtz, R.~Weatherup,
-  R.~Schloegl, B.~Bayer, and S.~Hofmann, ``In situ observations during chemical
-  vapor deposition of hexagonal boron nitride on polycrystalline copper,'' {\em
-  Chemistry of Materials}, vol.~26, no.~22, pp.~6380--6392, 2014.
+\selectlanguageifdefined{English}
+In situ observations during chemical vapor deposition of hexagonal boron
+  nitride on polycrystalline copper~/ {Piran R.}~Kidambi, Raoul~Blume,
+  Jens~Kling et~al.~// \BibEmph{Chemistry of Materials}. \BibDash
+\newblock 2014. \BibDash
+\newblock Vol.~26, no.~22. \BibDash
+\newblock P.~6380--6392.
 
 \bibitem{Paffett1990}
-M.~T. {Paffett}, R.~J. {Simonson}, P.~{Papin}, and R.~T. {Paine}, ``{Borazine
-  adsorption and decomposition at Pt(111) and Ru(001) surfaces},'' {\em Surface
-  Science}, vol.~232, pp.~286--296, June 1990.
+\selectlanguageifdefined{english}
+{Borazine adsorption and decomposition at Pt(111) and Ru(001) surfaces}~/
+  M.~T.~{Paffett}, R.~J.~{Simonson}, P.~{Papin}, R.~T.~{Paine}~//
+  \BibEmph{Surface Science}. \BibDash
+\newblock 1990. \BibDash
+\newblock Vol. 232. \BibDash
+\newblock P.~286--296.
 
-\bibitem{Preobrajenski2008_Adsorption-inducedgapstatesofh-BNonmetalsurfaces}
-A.~Preobrajenski, S.~Krasnikov, A.~Vinogradov, M.~Ng, T.~K{\"a}{\"a}mbre,
-  A.~Cafolla, and N.~M{\aa}rtensson, ``Adsorption-induced gap states of h-bn on
-  metal surfaces,'' {\em Physical Review B - Condensed Matter and Materials
-  Physics}, vol.~77, no.~8, pp.~085421--1--085421--5, 2008.
+\bibitem{Cavar2008}
+\selectlanguageifdefined{English}
+A single h-BN layer on Pt(111)~/ Elizabeta~Cavar, Rasmus~Westerstr{\"o}m,
+  Anders~Mikkelsen et~al.~// \BibEmph{Surface Science Letters}. \BibDash
+\newblock 2008. \BibDash
+\newblock Vol. 602. \BibDash
+\newblock P.~1722--1726.
+
+\bibitem{FarwickzumHagen2016}
+\selectlanguageifdefined{english}
+Structure and Growth of Hexagonal Boron Nitride on Ir(111)~/
+  Ferdinand~H.~Farwick~zum~Hagen, Domenik~M.~Zimmermann, Caio~C.~Silva
+  et~al.~// \BibEmph{ACS Nano}. \BibDash
+\newblock 2016. \BibDash
+\newblock Vol.~10, no.~12. \BibDash
+\newblock P.~11012--11026. \BibDash
+\newblock PMID: 28024332.
+
+\bibitem{Usachov2012}
+\selectlanguageifdefined{english}
+Experimental and computational insight into the properties of the
+  lattice-mismatched structures: Monolayers of $h$-BN and graphene on Ir(111)~/
+  D.~Usachov, A.~Fedorov, O.~Vilkov et~al.~// \BibEmph{Phys. Rev. B}. \BibDash
+\newblock 2012. \BibDash Oct. \BibDash
+\newblock Vol.~86. \BibDash
+\newblock P.~155151.
+
+\bibitem{Orlando2012}
+\selectlanguageifdefined{english}
+Epitaxial Growth of Hexagonal Boron Nitride on Ir(111)~/ Fabrizio~Orlando,
+  Rosanna~Larciprete, Paolo~Lacovig et~al.~// \BibEmph{The Journal of Physical
+  Chemistry C}. \BibDash
+\newblock 2012. \BibDash
+\newblock Vol. 116, no.~1. \BibDash
+\newblock P.~157--164.
 
 \bibitem{Brugger2009}
-T.~Brugger, S.~Guenther, B.~Wang, H.~Dil, M.-L. Bocquet, J.~Osterwalder,
-  J.~Wintterlin, and T.~Greber, ``Comparison of electronic structure and
-  template function of single-layer graphene and a hexagonal boron nitride
-  nanomesh on ru(0001),'' {\em Phys. Rev. B}, vol.~79, 01 2009.
+\selectlanguageifdefined{english}
+Comparison of electronic structure and template function of single-layer
+  graphene and a hexagonal boron nitride nanomesh on Ru(0001)~/ Thomas~Brugger,
+  Sebastian~Guenther, Bin~Wang et~al.~// \BibEmph{Phys. Rev. B}. \BibDash
+\newblock 2009. \BibDash 01. \BibDash
+\newblock Vol.~79.
+
+\bibitem{Vinogradov2012}
+\selectlanguageifdefined{english}
+One-Dimensional Corrugation of the h-BN Monolayer on Fe(110)~/
+  N.~A.~Vinogradov, A.~A.~Zakharov, M.~L.~Ng et~al.~// \BibEmph{Langmuir}.
+  \BibDash
+\newblock 2012. \BibDash
+\newblock Vol.~28, no.~3. \BibDash
+\newblock P.~1775--1781. \BibDash
+\newblock PMID: 22185488.
 
 \bibitem{Nagashima1995}
-A.~Nagashima, N.~Tejima, Y.~Gamou, T.~Kawai, and C.~Oshima, ``Electronic
-  structure of monolayer hexagonal boron nitride physisorbed on metal
-  surfaces,'' {\em Physical review letters}, vol.~75, pp.~3918--3921, 12 1995.
+\selectlanguageifdefined{english}
+Electronic Structure of Monolayer Hexagonal Boron Nitride Physisorbed on Metal
+  Surfaces~/ Ayato~Nagashima, N~Tejima, Y~Gamou et~al.~// \BibEmph{Physical
+  review letters}. \BibDash
+\newblock 1995. \BibDash 12. \BibDash
+\newblock Vol.~75. \BibDash
+\newblock P.~3918--3921.
 
-\bibitem{Weng2016}
-Q.~Weng, X.-B. Wang, X.~Wang, Y.~Bando, and D.~Golberg, ``Functionalized
-  hexagonal boron nitride nanomaterials: Emerging properties and
-  applications,'' {\em Chemical Society reviews}, vol.~45, 05 2016.
+\bibitem{Preobrajenski2008_Adsorption-inducedgapstatesofh-BNonmetalsurfaces}
+\selectlanguageifdefined{English}
+Adsorption-induced gap states of h-BN on metal surfaces~/ Alexei~Preobrajenski,
+  {S. A.}~Krasnikov, {A. S.}~Vinogradov et~al.~// \BibEmph{Physical Review B -
+  Condensed Matter and Materials Physics}. \BibDash
+\newblock 2008. \BibDash
+\newblock Vol.~77, no.~8. \BibDash
+\newblock P.~085421--1--085421--5.
 
-\bibitem{Ataca2010}
-C.~Ataca and S.~Ciraci, ``Functionalization of bn honeycomb structure by
-  adsorption and substitution of foreign atoms,'' {\em Phys. Rev. B}, vol.~82,
-  p.~165402, Oct 2010.
+\bibitem{Wasey2013}
+\selectlanguageifdefined{english}
+h-BN Monolayer on the Ni(111) Surface: A Potential Catalyst for Oxidation~/
+  A.~H. M.~Abdul~Wasey, Soubhik~Chakrabarty, G.~P.~Das, C.~Majumder~//
+  \BibEmph{ACS Applied Materials \& Interfaces}. \BibDash
+\newblock 2013. \BibDash
+\newblock Vol.~5, no.~21. \BibDash
+\newblock P.~10404--10408. \BibDash
+\newblock PMID: 24127935.
 
-\bibitem{Litvinov1998}
-D.~Litvinov, C.~A.~Taylor, and R.~Clarke, ``Semiconducting cubic boron
-  nitride,'' {\em Diamond and Related Materials}, vol.~7, pp.~360--364, 02
-  1998.
-
-\bibitem{YZhi2009}
-C.~Y~Zhi, Y.~Bando, T.~Terao, C.~C~Tang, H.~Kuwahara, and D.~Golberg,
-  ``Chemically activated boron nitride nanotubes,'' {\em Chemistry, an Asian
-  journal}, vol.~4, pp.~1536--40, 10 2009.
-
-\bibitem{Neumann1995}
-H.~Neumann, ``J. h. edgar (ed.). properties of group iii nitrides. (emis
-  datareviews series no. 11). inspec, the institution of electrical engineers,
-  london 1994. 302 seiten, 121 abbildungen, 77 tabellen. isbn
-  0–85296–818–3,'' {\em Crystal Research and Technology}, vol.~30, no.~7,
-  pp.~910--910, 1995.
-
-\bibitem{Doni1969}
-E.~Doni and G.~P. Parravicini, ``Energy bands and optical properties of
-  hexagonal boron nitride and graphite,'' {\em Il Nuovo Cimento B (1965-1970)},
-  vol.~64, pp.~117--144, Nov 1969.
-
-\bibitem{Serzhantova2011}
-M.~Serzhantova, A.~Kuzubov, A.~Fedorov, F.~Tomilin, and P.~Krasnov,
-  ``Theoretical study of the influence of deformation on the electronic
-  structure of a hexagonal boron nitride monolayer,'' {\em Siberian Journal of
-  Science and Technology}, 2011.
-
-\bibitem{Zhou2010}
-Y.~G. Zhou, X.~T. Zu, P.~Yang, H.~Y. Xiao, and F.~Gao, ``Oxygen-induced
-  magnetic properties and metallic behavior of a {BN} sheet,'' {\em Journal of
-  Physics: Condensed Matter}, vol.~22, p.~465303, nov 2010.
+\bibitem{Meng2018}
+\selectlanguageifdefined{english}
+Structural transformation of h-BN overlayers on Pt(111) in oxidative
+  atmospheres~/ Caixia~Meng, Yifan~Li, Hao~Wu et~al.~// \BibEmph{Phys. Chem.
+  Chem. Phys.} \BibDash
+\newblock 2018. \BibDash
+\newblock Vol.~20. \BibDash
+\newblock P.~11013--11020.
 
 \bibitem{Simonov2012_h-BN/Ir_Oxydation}
-K.~Simonov, N.~Vinogradov, M.~Ng, A.~Vinogradov, N.~Martensson, and
-  A.~Preobrajenski, ``Controllable oxidation of h-bn monolayer on ir(111)
-  studied by core-level spectroscopies,'' {\em Surface Science Letters},
-  vol.~606, no.~3-4, pp.~564--570, 2012.
+\selectlanguageifdefined{English}
+Controllable oxidation of h-BN monolayer on Ir(111) studied by core-level
+  spectroscopies~/ {K. A.}~Simonov, Nikolay~Vinogradov, {May Ling}~Ng et~al.~//
+  \BibEmph{Surface Science Letters}. \BibDash
+\newblock 2012. \BibDash
+\newblock Vol. 606, no. 3-4. \BibDash
+\newblock P.~564--570.
+
+\bibitem{Usachov2018_h-BN/_PED_STM}
+\selectlanguageifdefined{English}
+Site- and spin-dependent coupling at the highly ordered h-BN/Co(0001)
+  interface~/ {D. Yu.}~Usachev, {A. V.}~Tarasov, {K. A.}~Bokai et~al.~//
+  \BibEmph{Physical Review B-Condensed Matter}. \BibDash
+\newblock 2018. \BibDash 11. \BibDash
+\newblock Vol.~98.
+
+\bibitem{Usachov2016}
+\selectlanguageifdefined{english}
+Large-Scale Sublattice Asymmetry in Pure and Boron-Doped Graphene~/
+  Dmitry~Yu.~Usachov, Alexander~V.~Fedorov, Oleg~Yu.~Vilkov et~al.~//
+  \BibEmph{Nano Letters}. \BibDash
+\newblock 2016. \BibDash
+\newblock Vol.~16, no.~7. \BibDash
+\newblock P.~4535--4543. \BibDash
+\newblock PMID: 27248659.
+
+\bibitem{Litvinov1998}
+\selectlanguageifdefined{english}
+\BibEmph{Litvinov~Dmitri, A.~Taylor~Charles, Clarke~Roy}. Semiconducting cubic
+  boron nitride~// \BibEmph{Diamond and Related Materials}. \BibDash
+\newblock 1998. \BibDash 02. \BibDash
+\newblock Vol.~7. \BibDash
+\newblock P.~360--364.
+
+\bibitem{YZhi2009}
+\selectlanguageifdefined{english}
+Chemically Activated Boron Nitride Nanotubes~/ C~Y~Zhi, Y~Bando, T~Terao
+  et~al.~// \BibEmph{Chemistry, an Asian journal}. \BibDash
+\newblock 2009. \BibDash 10. \BibDash
+\newblock Vol.~4. \BibDash
+\newblock P.~1536--40.
+
+\bibitem{Neumann1995}
+\selectlanguageifdefined{english}
+\BibEmph{Neumann~H.} J. H. Edgar (ed.). Properties of Group III Nitrides. (EMIS
+  Datareviews Series No. 11). INSPEC, The Institution of Electrical Engineers,
+  London 1994. 302 Seiten, 121 Abbildungen, 77 Tabellen. ISBN
+  0–85296–818–3~// \BibEmph{Crystal Research and Technology}. \BibDash
+\newblock 1995. \BibDash
+\newblock Vol.~30, no.~7. \BibDash
+\newblock P.~910--910.
+
+\bibitem{Doni1969}
+\selectlanguageifdefined{english}
+\BibEmph{Doni~E., Parravicini~G.~Pastori}. Energy bands and optical properties
+  of hexagonal boron nitride and graphite~// \BibEmph{Il Nuovo Cimento B
+  (1965-1970)}. \BibDash
+\newblock 1969. \BibDash Nov. \BibDash
+\newblock Vol.~64, no.~1. \BibDash
+\newblock P.~117--144.
+
+\bibitem{Paszkowicz2001}
+\selectlanguageifdefined{english}
+{Lattice parameters and anisotropic thermal expansion of hexagonal boron
+  nitride in the 10-297.5 K temperature range}~/ W.~{Paszkowicz},
+  J.~B.~{Pelka}, M.~{Knapp} et~al.~// \BibEmph{Applied Physics A: Materials
+  Science \& Processing}. \BibDash
+\newblock 2002. \BibDash
+\newblock Vol.~75. \BibDash
+\newblock P.~431--435.
+
+\bibitem{Ooi2006}
+\selectlanguageifdefined{English (US)}
+Electronic structure and bonding in hexagonal boron nitride~/ N.~Ooi,
+  A.~Rairkar, L.~Lindsley, James~Adams~// \BibEmph{Journal of Physics Condensed
+  Matter}. \BibDash
+\newblock 2006. \BibDash 1. \BibDash
+\newblock Vol.~18, no.~1. \BibDash
+\newblock P.~97--115.
+
+\bibitem{Grad2003}
+\selectlanguageifdefined{english}
+Density functional theory investigation of the geometric and spintronic
+  structure of h-BN/Ni(111) in view of photoemission and STM experiments~/
+  G.~B.~Grad, P.~Blaha, K.~Schwarz et~al.~// \BibEmph{Phys. Rev. B}. \BibDash
+\newblock 2003. \BibDash Aug. \BibDash
+\newblock Vol.~68. \BibDash
+\newblock P.~085404.
+
+\bibitem{Catellani1987}
+\selectlanguageifdefined{english}
+Bulk and surface electronic structure of hexagonal boron nitride~/
+  A.~Catellani, M.~Posternak, A.~Baldereschi, A.~J.~Freeman~// \BibEmph{Phys.
+  Rev. B}. \BibDash
+\newblock 1987. \BibDash Oct. \BibDash
+\newblock Vol.~36. \BibDash
+\newblock P.~6105--6111.
+
+\bibitem{Museur2008}
+\selectlanguageifdefined{english}
+\BibEmph{Museur~Luc, Kanaev~Andrei}. Near band-gap photoluminescence properties
+  of hexagonal boron nitride~// \BibEmph{Journal of Applied Physics}. \BibDash
+\newblock 2008. \BibDash 06. \BibDash
+\newblock Vol. 103. \BibDash
+\newblock P.~103520 -- 103520.
+
+\bibitem{Serzhantova2011}
+\selectlanguageifdefined{english}
+THEORETICAL STUDY OF THE INFLUENCE OF DEFORMATION ON THE ELECTRONIC STRUCTURE
+  OF A HEXAGONAL BORON NITRIDE MONOLAYER~/ {M. V.}~Serzhantova, {A.
+  A.}~Kuzubov, {A. S.}~Fedorov et~al.~// \BibEmph{Siberian Journal of Science
+  and Technology}. \BibDash
+\newblock 2011.
+
+\bibitem{Wideman1995}
+\selectlanguageifdefined{english}
+\BibEmph{Wideman~Thomas, Sneddon~Larry~G.} Convenient Procedures for the
+  Laboratory Preparation of Borazine~// \BibEmph{Inorganic Chemistry}. \BibDash
+\newblock 1995. \BibDash
+\newblock Vol.~34, no.~4. \BibDash
+\newblock P.~1002--1003.
+
+\bibitem{Preobrajenski2007_h-BN_monolayer_on_metals}
+\selectlanguageifdefined{English}
+Monolayer h-BN on lattice-mismatched metal surfaces: On the formation of the
+  nanomesh~/ Alexei~Preobrajenski, {M. A.}~Nesterov, {May Ling}~Ng et~al.~//
+  \BibEmph{Chemical Physics Letters}. \BibDash
+\newblock 2007. \BibDash
+\newblock Vol. 446, no. 1-3. \BibDash
+\newblock P.~119--123.
+
+\bibitem{Li2014}
+\selectlanguageifdefined{english}
+Strong Oxidation Resistance of Atomically Thin Boron Nitride Nanosheets~/
+  Lu~Hua~Li, Jiri~Cervenka, Kenji~Watanabe et~al.~// \BibEmph{ACS Nano}.
+  \BibDash
+\newblock 2014. \BibDash
+\newblock Vol.~8, no.~2. \BibDash
+\newblock P.~1457--1462. \BibDash
+\newblock PMID: 24400990.
+
+\bibitem{Vinogradov2011}
+\selectlanguageifdefined{english}
+Impact of Atomic Oxygen on the Structure of Graphene Formed on Ir(111) and
+  Pt(111)~/ N.~A.~Vinogradov, K.~Schulte, M.~L.~Ng et~al.~// \BibEmph{The
+  Journal of Physical Chemistry C}. \BibDash
+\newblock 2011. \BibDash
+\newblock Vol. 115, no.~19. \BibDash
+\newblock P.~9568--9577.
 
 \bibitem{Makarova2019_h-BN/Ni_Oxydation}
-A.~A. Makarova, L.~Fernandez, D.~Y. Usachov, A.~Fedorov, K.~A. Bokai, D.~A.
-  Smirnov, C.~Laubschat, D.~V. Vyalikh, F.~Schiller, and J.~E. Ortega, ``Oxygen
-  intercalation and oxidation of atomically thin h-bn grown on a curved ni
-  crystal,'' {\em The Journal of Physical Chemistry C}, vol.~123, no.~1,
-  pp.~593--602, 2019.
-
-\bibitem{Shevelev2019_h-BN/Co_oxydation}
-V.~O. Shevelev, K.~A. Bokai, O.~Y. Vilkov, A.~A. Makarova, and D.~Y. Usachov,
-  ``Oxidation of h-{BN} on strongly and weakly interacting metal surfaces,''
-  {\em Nanotechnology}, vol.~30, p.~234004, mar 2019.
+\selectlanguageifdefined{english}
+Oxygen Intercalation and Oxidation of Atomically Thin {h-BN} Grown on a Curved
+  Ni Crystal~/ Anna~A.~Makarova, Laura~Fernandez, Dmitry~Yu.~Usachov et~al.~//
+  \BibEmph{The Journal of Physical Chemistry C}. \BibDash
+\newblock 2019. \BibDash
+\newblock Vol. 123, no.~1. \BibDash
+\newblock P.~593--602.
 
 \bibitem{Huber2015_Oxy_Stab_defffects_in_hBN}
-S.~P. Huber, E.~Gullikson, R.~W.~E. van~de Kruijs, F.~Bijkerk, and
-  D.~Prendergast, ``Oxygen-stabilized triangular defects in hexagonal boron
-  nitride,'' {\em Phys. Rev. B}, vol.~92, p.~245310, Dec 2015.
+\selectlanguageifdefined{english}
+Oxygen-stabilized triangular defects in hexagonal boron nitride~/ S.~P.~Huber,
+  E.~Gullikson, R.~W.~E.~van~de~Kruijs et~al.~// \BibEmph{Phys. Rev. B}.
+  \BibDash
+\newblock 2015. \BibDash Dec. \BibDash
+\newblock Vol.~92. \BibDash
+\newblock P.~245310.
+
+\bibitem{Zhao2012}
+\selectlanguageifdefined{english}
+Oxidation of a two-dimensional hexagonal boron nitride monolayer: a
+  first-principles study~/ Yu~Zhao, Xiaojun~Wu, Jinlong~Yang,
+  Xiao~Cheng~Zeng~// \BibEmph{Phys. Chem. Chem. Phys.} \BibDash
+\newblock 2012. \BibDash
+\newblock Vol.~14. \BibDash
+\newblock P.~5545--5550.
+
+\bibitem{Hufner2019}
+\selectlanguageifdefined{english}
+\BibEmph{Hufner~Stefan}. Photoelectron spectroscopy : principles and
+  applications / Stefan Hufner~// \BibEmph{SERBIULA (sistema Librum 2.0)}.
+  \BibDash
+\newblock 2019. \BibDash 05.
+
+\bibitem{Mean_Free_Path}
+\selectlanguageifdefined{english}
+Electron Inelastic Mean Free Path of Elements and Compounds. Practical Electron
+  Microscopy and Database. \BibDash
+\newblock An Online Book.
+
+\bibitem{Stohr1992}
+\selectlanguageifdefined{english}
+\BibEmph{Stöhr~J.} NEXAFS Spectroscopy. \BibDash
+\newblock Berlin: Springer, 1992.
+
+\bibitem{Ataca2010}
+\selectlanguageifdefined{english}
+\BibEmph{Ataca~C., Ciraci~S.} Functionalization of BN honeycomb structure by
+  adsorption and substitution of foreign atoms~// \BibEmph{Phys. Rev. B}.
+  \BibDash
+\newblock 2010. \BibDash Oct. \BibDash
+\newblock Vol.~82. \BibDash
+\newblock P.~165402.
+
+\bibitem{Zhou2010}
+\selectlanguageifdefined{english}
+Oxygen-induced magnetic properties and metallic behavior of a {BN} sheet~/
+  Y~G~Zhou, X~T~Zu, P~Yang et~al.~// \BibEmph{Journal of Physics: Condensed
+  Matter}. \BibDash
+\newblock 2010. \BibDash nov. \BibDash
+\newblock Vol.~22, no.~46. \BibDash
+\newblock P.~465303.
+
+\bibitem{Usachov2017_Graphen_RS}
+\selectlanguageifdefined{english}
+Raman Spectroscopy of Lattice-Matched Graphene on Strongly Interacting Metal
+  Surfaces~/ Dmitry~Yu.~Usachov, Valery~Yu.~Davydov, Vladimir~S.~Levitskii
+  et~al.~// \BibEmph{ACS Nano}. \BibDash
+\newblock 2017. \BibDash
+\newblock Vol.~11, no.~6. \BibDash
+\newblock P.~6336--6345. \BibDash
+\newblock PMID: 28494148.
+
+\bibitem{Petravic2010}
+\selectlanguageifdefined{english}
+Decoration of nitrogen vacancies by oxygen atoms in boron nitride nanotubes~/
+  Mladen~Petravic, Robert~Peter, Ivna~Kavre et~al.~// \BibEmph{Phys. Chem.
+  Chem. Phys.} \BibDash
+\newblock 2010. \BibDash
+\newblock Vol.~12. \BibDash
+\newblock P.~15349--15353.
+
+\bibitem{Shevelev2019_h-BN/Co_oxydation}
+\selectlanguageifdefined{english}
+Oxidation of h-{BN} on strongly and weakly interacting metal surfaces~/
+  Viktor~O~Shevelev, Kirill~A~Bokai, Oleg~Yu~Vilkov et~al.~//
+  \BibEmph{Nanotechnology}. \BibDash
+\newblock 2019. \BibDash mar. \BibDash
+\newblock Vol.~30, no.~23. \BibDash
+\newblock P.~234004.
 
 \bibitem{Koepernik1999}
-K.~Koepernik and H.~Eschrig, ``Full-potential nonorthogonal local-orbital
-  minimum-basis band-structure scheme,'' {\em Phys. Rev. B}, vol.~59, 01 1999.
+\selectlanguageifdefined{english}
+\BibEmph{Koepernik~Klaus, Eschrig~Helmut}. Full-potential nonorthogonal
+  local-orbital minimum-basis band-structure scheme~// \BibEmph{Phys. Rev. B}.
+  \BibDash
+\newblock 1999. \BibDash 01. \BibDash
+\newblock Vol.~59.
+
+\bibitem{Coulson1968}
+\selectlanguageifdefined{english}
+\BibEmph{Coulson~C.~A., Dingle~T.~W.} The B–O bond lengths in boron–oxygen
+  compounds~// \BibEmph{Acta Crystallographica Section B}. \BibDash
+\newblock 1968. \BibDash
+\newblock Vol.~24, no.~1. \BibDash
+\newblock P.~153--155.
 
 \end{thebibliography}
